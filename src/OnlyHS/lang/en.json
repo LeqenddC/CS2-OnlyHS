@@ -1,0 +1,8 @@
+{
+    "prefix": " {green}[OnlyHS]{default} ",
+    "enabled": "{lightred}{0}{default} enabled headshot-only mode!",
+    "disabled": "{lightred}{0}{default} disabled headshot-only mode!",
+    "no_permission": "You do not have permission to use this command.",
+    "no_cvars": "No cvar could be applied. Check the Cvars section of the config.",
+    "console_name": "Console"
+}
